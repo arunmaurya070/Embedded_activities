@@ -1,0 +1,378 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-pc-mingw32
+ 
+
+# Make data base, printed on Thu Apr 29 03:36:39 2021
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+# makefile (from `makefile', line 6)
+SRC = project_main.c src/activity_1.c src/activity_2.c src/activity_3.c src/activity_4.c
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := f:/LTTS/LTTS Embedded Activity/Embedded_activities
+# default
+SHELL := C:/WinAVR-20100110/utils/bin/sh.exe
+# environment
+ProgramFiles(x86) = C:\Program Files (x86)
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+# makefile (from `makefile', line 1)
+MAKEFILE_LIS 
+T :=  makefile
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_NODE_CACHED_DATA_DIR = C:\Users\Neha Maurya\AppData\Roaming\Code\CachedData\3c4e3df9e89829dce27b7b5c24508306b151f30d
+# environment
+RegionCode = APJ
+# environment
+TMP = C:\Users\NEHAMA~1\AppData\Local\Temp
+# environment
+OnlineServices = Online Services
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+SystemDrive = C:
+# environment
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-79f026dc-6178-4729-8006-6ed8dbac4a39-sock
+# environment
+platformcode = KV
+# environment
+VSCODE_CWD = C:\Users\Neha Maurya\AppData\Local\Programs\Microsoft VS Code
+# environment
+SystemRoot = C:\WINDOWS
+# environment
+PATH = C:\WinAVR-20100110\bin;C:\WinAVR-20100110\utils\bin;C:\Users\Neha Maurya\AppData\Local\Microsoft\WindowsApps;C:\Users\Neha Maurya\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Neha Maurya\AppData\Local\GitHubDesktop\bin;C:\MinGW\bin;
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+USERPROFILE = C:\Users\Neha Maurya
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+ComSpec = C:\WINDOWS\system32\cmd.exe
+# environment
+VSCODE_LOG_STACK = false
+# environment
+NUMBER_OF_PROCESSORS = 4
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives
+# environment
+envContainerTelemetryApiCmdLineX86 = -st "C:\Program Files (x86)\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll"
+# environment
+ProgramW6432 = C:\Program Files
+# automatic
+%F = $(notdir $%)
+# makefile (from `makefile', line 18)
+FixPath = $(subst /,\,$1)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_5416_EEDVKTKIZKHNNZIY
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+COMPUTERNAME = LAPTOP-ME2UC7V1
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+AVR32_HOME = C:\WinAVR-20100110
+# environment
+USERNAME = Neha Maurya
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+CommonProgramW6432 = C:\Program Files\Common Files
+# environment
+ProgramData = C:\ProgramData
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+LOGONSERVER = \\LAPTOP-ME2UC7V1
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = LAPTOP-ME2UC7V1
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# makefile (from `makefile', line 20)
+CC = avr-gcc.exe
+# makefile (from `makefile', line 3)
+BUILD_DIR = Build
+# makefile (from `makefile', line 22)
+AVR_OBJ_CPY = avr-objcopy.exe
+# default
+MAKE_VERSION := 3.81
+# makefile
+.DEFAULT_GOAL := all
+# environment
+OneDrive = C:\Users\Neha Maurya\OneDrive
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+envContainerTelemetryApiCmdLine = -st "C:\Program Files\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll"
+# environment
+DriverData = C:\Windows\System32\Drivers\DriverData
+# environment
+LOCALAPPDATA = C:\Users\Neha Maurya\AppData\Local
+# default
+MAKE_COMMAND := make.exe
+# makefile (from `makefile', line 13)
+INC = -I inc
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# environment
+OneDriveConsumer = C:\Users\Neha Maurya\OneDrive
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\3a30e6fc7759f44b44791c45a25efd80-1.55.2-main-sock
+# environment
+HOMEPATH = \Users\Neha Maurya
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+windir = C:\WINDOWS
+# automatic
++F = $(notdir $+)
+# default
+SUFFIXES := 
+# environment
+APPDATA = C:\Users\Neha Maurya\AppData\Roaming
+# environment
+TEMP = C:\Users\NEHAMA~1\AppData\Local\Temp
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# automatic
+^F = $(notdir $^)
+# environment
+ProgramFiles = C:\Program Files (x86)
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 8e09
+# makefile (from `makefile', line 1)
+PROJ_NAME = Blinky
+# environment
+MAKELEVEL := 0
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 5416
+# environment
+USERDOMAIN_ROAMINGPROFILE = LAPTOP-ME2UC7V1
+# variable set hash-table stats:
+# Load=100/1024=10%, Rehash=0, Collisions=13/126=10%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key f:/LTTS/LTTS Embedded Activity/Embedded_activities, mtime 1619647295): 13 files, no impossibilities.
+# C:\WinAVR-20100110\bin (key C:/WinAVR-20100110/bin, mtime 1619210889): 75 files, no impossibilities.
+# C:\WinAVR-20100110\utils\bin (key C:/WinAVR-20100110/utils/bin, mtime 1619210933): 99 files, no impossibilities so far.
+
+# 187 files, no impossibilities in 3 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+all: Build
+#  Phony target (prerequisite of .PHONY).
+#  Command-line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/3=0%
+#  commands to execute (from `makefile', line 39):
+	$(CC) -g -Wall -Os -mmcu=atmega328  $(INC) $(SRC) -o $(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).elf)
+	
+
+# Not a target:
+src/activity_3.c:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+.PHONY: all analysis clean doc
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+project_main.c:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  Last modified 2021-04-29 03:35:47
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+Build:
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: `'
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := Build
+# automatic
+# % := 
+# automatic
+# * := 
+# automatic
+# + := 
+# automatic
+# | := 
+# automatic
+# < := 
+# automatic
+# ^ := 
+# automatic
+# ? := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/11=9%
+#  commands to execute (from `makefile', line 43):
+	mkdir $(BUILD_DIR)
+	
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/activity_1.c:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+analysis: project_main.c src/activity_1.c src/activity_2.c src/activity_3.c src/activity_4.c
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 47):
+	cppcheck --enable=all $^
+	
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 55):
+	rm -rf $(call FixPath,$(BUILD_DIR)/*)
+	make -C documentation clean
+	
+
+# Not a target:
+src/activity_2.c:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/activity_4.c:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+doc:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been up 
+dated.
+#  commands to execute (from `makefile', line 51):
+	make -C documentation
+	
+
+# files hash-table stats:
+# Load=14/1024=1%, Rehash=0, Collisions=0/37=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Thu Apr 29 03:36:39 2021
+
+ 

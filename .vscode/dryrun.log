@@ -1,0 +1,7 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory `f:/LTTS/LTTS Embedded Activity/Embedded_activities'
+mkdir Build
+avr-gcc.exe -g -Wall -Os -mmcu=atmega328  -I inc project_main.c src/activity_1.c src/activity_2.c src/activity_3.c src/activity_4.c -o Build\Blinky.elf
+ 
+make.exe: Leaving directory `f:/LTTS/LTTS Embedded Activity/Embedded_activities'
+ 
