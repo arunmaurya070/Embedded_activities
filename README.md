@@ -1,6 +1,6 @@
 # Embedded C Activities with Continuous Integration and Code Quality
 
-# Activity 1, Activity 2, Activity 3 and Activity 4
+### Activity 1, Activity 2, Activity 3 and Activity 4
 
 ## SimulIde snapshot
 
