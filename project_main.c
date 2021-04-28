@@ -3,12 +3,16 @@
 #include <activity_3.h>
 #include<avr/io.h>
 
+/**
+ * @file project_main.h
+ * @brief activity 1 and activity 3 is executed
+ * @author Arun Maurya
+ */
 int main(void)
 {
     while(1)
     {
         activity_1();
-        /*Activity2 AND is used in Activity3*/
         activity_3();
     }
     return 0;
