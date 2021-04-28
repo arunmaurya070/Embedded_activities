@@ -1,7 +1,7 @@
-#include <activity_1.h>
-#include <activity_2.h>
-#include <activity_3.h>
-#include<avr/io.h>
+#include "activity_1.h"
+#include "activity_2.h"
+#include "activity_3.h"
+#include <avr/io.h>
 
 /**
  * @file project_main.h
